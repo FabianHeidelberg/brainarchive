@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Getting Weather information in a terminal](README.md)
 
